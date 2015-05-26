@@ -4,7 +4,7 @@ Python is an interpreted, interactive, object-oriented, open-source programming 
 
 > [wikipedia.org/wiki/Python_(programming_language)](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
 
-![logo](https://raw.githubusercontent.com/1science/docs/latest/python/logo.png)
+![logo](https://raw.githubusercontent.com/1science/docker-python/latest/logo.png)
 
 # Supported tags
 
