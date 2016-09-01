@@ -14,6 +14,12 @@ Python is an interpreted, interactive, object-oriented, open-source programming 
 
 TODO
 
+# Build
+
+This project is configured as an [automated build in Dockerhub](https://hub.docker.com/r/1science/python/). 
+
+Each branch generates the related image tag.
+
 # License
 
 All the code contained in this repository, unless explicitly stated, is
