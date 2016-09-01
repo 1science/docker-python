@@ -2,10 +2,10 @@
 # Python image
 #
 
-FROM 1science/alpine:3.1
+FROM 1science/alpine:3.4
 
 # Python Version
-ENV PYTHON_VERSION=2.7.9-r0
+ENV PYTHON_VERSION=2.7.12-r0
 
 # Install Python 2.7
 RUN apk-install "python=${PYTHON_VERSION}" "python-dev=${PYTHON_VERSION}" && \
